@@ -14,3 +14,5 @@ This repository is used for testing normal Git and GitHub workflows.
 PR workflow test #1.
 
 PR workflow test #2.
+
+Collaborative commit workflow test.
