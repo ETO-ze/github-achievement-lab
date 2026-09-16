@@ -12,3 +12,5 @@ This repository is used for testing normal Git and GitHub workflows.
 ## Pull Request Tests
 
 PR workflow test #1.
+
+PR workflow test #2.
